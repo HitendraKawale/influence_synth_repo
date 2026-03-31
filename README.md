@@ -1,1 +1,1 @@
-# influence_synth_repo
+# influence_synth_curation
